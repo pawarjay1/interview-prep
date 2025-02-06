@@ -38,3 +38,14 @@
 
 - adds new file in your working directory to git staging area.
 - syntax : <b>git add <--file name--> </b>
+- use (.) to select all file once
+
+### commit 
+
+- it is the record of change 
+- syntax : <b>git commit -m "somting message" </b>
+
+### push 
+
+- upload local repo content to remote repo(GitHub). 
+- syntax : <b>git push orgin main</b>
