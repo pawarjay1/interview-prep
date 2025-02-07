@@ -55,14 +55,14 @@
 - used to create a new git repo 
 - syntax : <b>git remote add orgin <-link-></b>
 
-*** remote ***
+**remote**
 - Add a new remote repository
 - syntax : <b> git remote add orgin https://github.com/pawarjay1/local-repo.git </b>
 
 - Show all remotes
 - syntax : <b>git remote -v </b>
 
-*** branch ***
+**branch**
 
 
 
@@ -91,10 +91,10 @@
 
 - to merge two branches
  
-*** way one ***
+**way one**
 - syntax : <b>git merge <-branch name-></b> 
 
-*** way two ***
+**way two**
 
 - create a pull request using github 
 - it tells others about changes you pushed to a branch. 
@@ -107,6 +107,7 @@
 
 ### undoing changes 
 
-jay
+syntax : 
 
-kumar gg 
+git reset --hard HEAD~1
+git push --force
