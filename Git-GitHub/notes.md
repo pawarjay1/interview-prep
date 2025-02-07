@@ -111,3 +111,10 @@ syntax :
 
 - git reset --hard HEAD~1
 - git push --force
+
+### fork 
+
+- A fork is a new repository that shares and visibility setting with the original "upstream" repository. 
+
+- fork is a rough copy. 
+
