@@ -72,7 +72,7 @@
 - syntax : <b>git branch </b>
 
 - to rename branch
-- syntaxv:v<b>git branch -m main</b>  
+- syntax :<b>git branch -m main</b>  
 
 - to navigate 
 - syntax : <b>git checkout <-branch name-> </b> 
