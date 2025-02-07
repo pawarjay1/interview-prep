@@ -50,6 +50,6 @@
 - upload local repo content to remote repo(GitHub). 
 - syntax : <b>git push orgin main</b>
 
-### init 
+### init
 
-
+- used to create a new git repo 
