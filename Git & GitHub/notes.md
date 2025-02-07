@@ -89,7 +89,8 @@
 - to comapair branches
 - syntax : <b>git diff <-branch name-></b> 
 
-- to merge two branches 
+- to merge two branches
+ 
 *** way one ***
 - syntax : <b>git merge <-branch name-></b> 
 
