@@ -103,3 +103,8 @@
 - syntax : <b>git pull orgin main </b> 
 - used to fetch and download content from a remote repo and immediately update the local repo to match that content 
 
+
+### undoing changes 
+
+
+
