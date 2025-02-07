@@ -27,7 +27,7 @@
 ### status
 
 - display the state of the code 
-- syntac : <b>git status </b>
+- syntax : <b>git status </b>
 
 - <b>untracked : </b> new file that git does not yet tracked
 - <b>modified : </b> changed file
@@ -53,3 +53,53 @@
 ### init
 
 - used to create a new git repo 
+- syntax : <b>git remote add orgin <-link-></b>
+
+*** remote ***
+- Add a new remote repository
+- syntax : <b> git remote add orgin https://github.com/pawarjay1/local-repo.git </b>
+
+- Show all remotes
+- syntax : <b>git remote -v </b>
+
+*** branch ***
+
+
+
+### branches 
+
+- to check branch
+- syntax : <b>git branch </b>
+
+- to rename branch
+- syntaxv:v<b>git branch -m main</b>  
+
+- to navigate 
+- syntax : <b>git checkout <-branch name-> </b> 
+
+- to create new branch 
+- syntax : <b>git checkout -b <-new branch name-></b>
+
+- to delete a branch 
+- syntax : <b>git branch -d <-branch name-></b>
+
+
+### marging two branches 
+
+- to comapair branches
+- syntax : <b>git diff <-branch name-></b> 
+
+- to merge two branches 
+*** way one ***
+- syntax : <b>git merge <-branch name-></b> 
+
+*** way two ***
+
+- create a pull request using github 
+- it tells others about changes you pushed to a branch. 
+
+### pull command 
+
+- syntax : <b>git pull orgin main </b> 
+- used to fetch and download content from a remote repo and immediately update the local repo to match that content 
+
