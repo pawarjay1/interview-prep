@@ -21,5 +21,6 @@
 
 - fragments: <></>
 
+- props : Props are arguments passed into React components.
 
 
