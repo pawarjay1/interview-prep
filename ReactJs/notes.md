@@ -3,11 +3,10 @@
 - what is react 
 
 <p> React is a JavaScript library created by Facebook</p>
- <br>
 
-React is a User Interface (UI) library <br>
 
-React is a tool for building UI components <br>
+React is a User Interface (UI) library 
+React is a tool for building UI components 
 
 - how to install react using vite 
 
