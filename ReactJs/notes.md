@@ -15,7 +15,7 @@
 
 - useState hooks (variable of React)
 
-- two way binding. 
+- two way binding. (form validation) 
 
 - components (heart of React js) imp 
 
