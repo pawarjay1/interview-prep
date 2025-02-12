@@ -1,9 +1,10 @@
 # react js 
 
-- what is react <br>
+- what is react 
 
-React.js is a JavaScript library for building user interfaces.<br>
-Developed by Facebook (Meta), it is component-based and follows a virtual DOM approach.<br>
+React.js is a JavaScript library for building user interfaces.
+
+Developed by Facebook (Meta), it is component-based and follows a virtual DOM approach.
 
 - how to install react using vite 
 
