@@ -2,6 +2,12 @@
 
 - what is react 
 
+React is a JavaScript library created by Facebook <br>
+
+React is a User Interface (UI) library <br>
+
+React is a tool for building UI components <br>
+
 - how to install react using vite 
 
 - react folder structure 
@@ -31,5 +37,10 @@
 - useEffect 
 
 - React Router Dom (make a simple landing page with navigation links "page will change without loading")
+
+- what is state management (context API)
+- context API : contextAPI is used to centralized data. 
+
+- 
 
 
