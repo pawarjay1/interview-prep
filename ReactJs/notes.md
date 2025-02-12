@@ -22,5 +22,14 @@
 - fragments: <></>
 
 - props : Props are arguments passed into React components.
+- Props Drilling 
+
+- Rendering JSON Data 
+
+- Intergrating API (axios) : make a project in which we can use api data on a web page 
+
+- useEffect 
+
+- React Router Dom (make a simple landing page with navigation links "page will change without loading")
 
 
