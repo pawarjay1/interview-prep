@@ -1,12 +1,42 @@
 # react js 
 
-- what is react 
+### what is react 
 
 React.js is a JavaScript library for building user interfaces.
 
 Developed by Facebook (Meta), it is component-based and follows a virtual DOM approach.
 
-- how to install react using vite 
+useful in developing single page interfaces. 
+
+It is helpful in building complex and reusable user interface(UI). 
+
+#### important features of React are:
+
+It supports server-side rendering.
+
+It will make use of the virtual DOM rather than real DOM
+
+It follows unidirectional data binding or data flow.
+
+
+#### advantages of using React
+
+- Component-Based Architecture
+
+- Use Virtual DOM for High Performance.
+
+- One-Way Data Binding (Data flows in one direction (from parent to child) )
+
+- React Hooks for Simpler State Management
+
+- Single Page Applications without full-page reloads.
+
+
+
+### how to install react using vite 
+
+
+
 
 - react folder structure 
 
