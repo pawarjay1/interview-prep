@@ -2,7 +2,8 @@
 
 - what is react 
 
-React is a JavaScript library created by Facebook <br>
+<p> React is a JavaScript library created by Facebook</p>
+ <br>
 
 React is a User Interface (UI) library <br>
 
