@@ -35,6 +35,23 @@ It follows unidirectional data binding or data flow.
 
 ### how to install react using vite 
 
+1. Create a React App with Vite
+
+> npm create vite@latest my-app
+
+2. Install Dependencies
+
+> npm install 
+
+3. Start the Development Server
+
+> npm run dev
+
+** Install Axios
+
+> npm install axios
+
+
 
 
 
