@@ -107,6 +107,13 @@ Instead of updating the Real DOM directly, React first updates the Virtual DOM, 
 - what is state management (context API)
 - context API : contextAPI is used to centralized data. 
 
-- 
+
+
+7'o clock wake'up
+9'o ready
+9 to 12     
+1 to 7      
+10 to 11    
+
 
 
