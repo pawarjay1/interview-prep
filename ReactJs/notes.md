@@ -47,19 +47,40 @@ It follows unidirectional data binding or data flow.
 
 > npm run dev
 
+4. stop the server 
+
+> ctr + c
+
 ** Install Axios
 
 > npm install axios
 
 
+### real dom (slow) vs virtual dom (fast) 
+
+#### Real Dom 
+
+The Real DOM is the actual structure of a webpage that the browser renders.
+
+Slow Performance becuse of small change (like updating a single button) can cause the entire page to reload.
+
+#### virtual Dom
+
+The Virtual DOM is a lightweight copy of the Real DOM stored in memory.
+
+Instead of updating the Real DOM directly, React first updates the Virtual DOM, compares changes and then efficiently updates only the necessary parts of the Real DOM.
+
+##### How Virtual DOM Works in React? 
+
+1. Render Phase: React creates a Virtual DOM representation of the UI.
+
+2. Diffing Phase: React compares (diffs) the old Virtual DOM with the new one.
+
+3. Reconciliation Phase: React finds the minimal changes and updates only the required parts of the Real DOM.
 
 
+### import/export file in js 
 
-- react folder structure 
-
-- real dom (slow) vs virtual dom (fast) 
-
-- import/export file in js 
 
 - jsx(javascript xml) : combination of html and js 
 - onClick, onSubmit
