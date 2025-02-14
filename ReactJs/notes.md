@@ -79,13 +79,22 @@ Instead of updating the Real DOM directly, React first updates the Virtual DOM, 
 3. Reconciliation Phase: React finds the minimal changes and updates only the required parts of the Real DOM.
 
 
-### import/export file in js 
+### jsx(javascript xml) 
+
+JSX stands for JavaScript XML.
+
+It allows us to write HTML inside JavaScript and place them in the DOM without using functions like appendChild( ) or createElement( ).
 
 
-- jsx(javascript xml) : combination of html and js 
-- onClick, onSubmit
+### Hooks 
 
-- useState hooks (variable of React)
+
+
+### useState hooks (variable of React)
+
+
+- useEffect 
+
 
 - two way binding. (form validation) 
 
@@ -100,7 +109,7 @@ Instead of updating the Real DOM directly, React first updates the Virtual DOM, 
 
 - Intergrating API (axios) : make a project in which we can use api data on a web page 
 
-- useEffect 
+
 
 - React Router Dom (make a simple landing page with navigation links "page will change without loading")
 
@@ -109,11 +118,45 @@ Instead of updating the Real DOM directly, React first updates the Virtual DOM, 
 
 
 
-7'o clock wake'up
-9'o ready
-9 to 12     
-1 to 7      
-10 to 11    
+
+# imp topics of react.js
+
+## hooks 
+
+- useState()
+
+- useEffect()
+
+- useContext()
+
+- useReduce()
+
+- useMemo()
+
+- useCallback()
+
+- useRef()
+
+ 
+## higher order components 
+
+- what are the higher order components 
+
+- why we use it higher order components 
+
+- when we use 
+
+- how we use higher order components 
+
+
+## life cycle method of components 
+
+## state managment 
+
+- state/props 
+
+- prop drilling 
+
 
 
 
