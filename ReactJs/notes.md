@@ -85,6 +85,36 @@ JSX stands for JavaScript XML.
 
 It allows us to write HTML inside JavaScript and place them in the DOM without using functions like appendChild( ) or createElement( ).
 
+### fragments in jsx  
+
+React Fragment is a feature in React that allows you to return multiple elements from a React component by allowing you to group a list of children without adding extra nodes to the DOM.
+
+To return multiple elements from a React component, you'll need to wrap the element in a root element.
+
+> <>....</>  or <Fragment>....</Fragment>
+
+
+
+### Import & Export in React.js
+
+There are two ways to export and import:
+
+1. Named Export / Import
+
+> export const add = (a, b) => a + b;
+
+> import { add, subtract } from "./math";
+
+2. Default Export / Import
+
+> export default Header;
+
+> import Header from "./Header";
+
+
+
+
+
 
 ### Hooks 
 
