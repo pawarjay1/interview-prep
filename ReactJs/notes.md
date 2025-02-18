@@ -115,78 +115,13 @@ There are two ways to export and import:
 
 
 
+# techical thapa series imp 
 
-### Hooks 
+- looping in jsx (using map)
 
+- Passing JSX as Props 
 
-
-### useState hooks (variable of React)
-
-
-- useEffect 
-
-
-- two way binding. (form validation) 
-
-- components (heart of React js) imp 
-
-- fragments: <></>
-
-- props : Props are arguments passed into React components.
-- Props Drilling 
-
-- Rendering JSON Data 
-
-- Intergrating API (axios) : make a project in which we can use api data on a web page 
-
-
-
-- React Router Dom (make a simple landing page with navigation links "page will change without loading")
-
-- what is state management (context API)
-- context API : contextAPI is used to centralized data. 
-
-
-
-
-# imp topics of react.js
-
-## hooks 
-
-- useState()
-
-- useEffect()
-
-- useContext()
-
-- useReduce()
-
-- useMemo()
-
-- useCallback()
-
-- useRef()
-
- 
-## higher order components 
-
-- what are the higher order components 
-
-- why we use it higher order components 
-
-- when we use 
-
-- how we use higher order components 
-
-
-## life cycle method of components 
-
-## state managment 
-
-- state/props 
-
-- prop drilling 
-
+- conditional css styling in react 
 
 
 

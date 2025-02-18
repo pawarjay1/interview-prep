@@ -1,0 +1,14 @@
+.super_hit{
+    background-color: rgb(83, 231, 83); 
+    padding: 5px; 
+    border-radius: 3px; 
+}
+
+.average{
+    background-color: rgb(255, 61, 61); 
+    padding: 5px; 
+    border-radius: 3px; 
+}
+.black{
+    background-color: black; 
+}

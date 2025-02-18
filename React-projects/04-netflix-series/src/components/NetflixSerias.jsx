@@ -5,11 +5,10 @@ import {SeriasCard} from './SeriasCard';
 const NetflixSerias = () => {
 
   return (
-    <ul>
-      {seriesData.map((element) => {
-          return (
-            <SeriasCard key={element.id} element={element} />
-          );  
+      <ul className='grid grid-three--cols'>
+      {
+        seriesData.map((element)=>{
+          return( <SeriasCard key={element.key} element={element} />)
         })
       }
 
