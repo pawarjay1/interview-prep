@@ -121,7 +121,9 @@ There are two ways to export and import:
 
 - Passing JSX as Props 
 
-- conditional css styling in react 
+- conditional css styling in react (usign ?:oprators in ClassName); 
+
+- 
 
 
 
