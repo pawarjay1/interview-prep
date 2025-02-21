@@ -18,9 +18,9 @@ const EventPropagation = () => {
     }
   return (
     <>
-        <div className={styles.gdiv} onClick={grandParendClicked}>
-            <div className={styles.pdiv} onClick={parentClicked}>
-                <div className={styles.cdiv} onClick={childClicked}>
+        <div className={styles.gdiv} onClickCapture={grandParendClicked}>
+            <div className={styles.pdiv} onClickCapture={parentClicked}>
+                <div className={styles.cdiv} onClickCapture={childClicked}>
                     <h1>child div</h1>
                 </div>
             </div>

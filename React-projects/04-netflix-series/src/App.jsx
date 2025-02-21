@@ -1,10 +1,12 @@
 import './App.css'; 
 import './components/Netflix.module.css'
 import './components/Event.module.css'; 
-import NetflixSerias from './components/NetflixSerias'; 
-import Cards from './components/Cards'; 
-import EventHandling from './components/EventHandling'; 
-import EventPropagation from './components/EventPropagation';
+import './toggleSwitch/Toggle.module.css'
+// import NetflixSerias from './components/NetflixSerias'; 
+// import Cards from './components/Cards'; 
+// import EventHandling from './components/EventHandling'; 
+// import EventPropagation from './components/EventPropagation';
+import Toggle from './toggleSwitch/Toggle'; 
 
 const Card1 = () => {
   return (
@@ -30,7 +32,10 @@ function App() {
       
       {/* <EventHandling /> */}
 
-      <EventPropagation />
+
+      {/* <EventPropagation /> */}
+
+      <Toggle />
 
       
     </>
